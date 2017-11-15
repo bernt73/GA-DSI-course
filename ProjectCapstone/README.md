@@ -1,4 +1,4 @@
-# This jupiter notebook requires dozens of other files (pickles, h5, html, .py, etc) to work properly. Due to the file sizes, I have to zip them up into 4 Archive zip files:
+### This jupiter notebook requires dozens of other files (pickles, h5, html, .py, etc) to work properly. Due to the file sizes, I have to zip them up into 4 Archive zip files:
 
 Archive 1 - miscellaneous files including .py, html, model pickle files
 Archive 2 - original data set and intermediate pickle files
