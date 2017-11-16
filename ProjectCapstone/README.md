@@ -6,7 +6,7 @@ Archive 3 - Word2Vec models (900mb after uncompressing)<br>
 Archive 4 - training and test data frames for Regression model (12 Gb after uncompressing)<br>
 
 <br><br>
-Archive 1 is able to be stored here. links to download Archive 2 - 4 are provided: <br><br>
+Archive 1 can be downloaded here. Links to download Archive 2 - 4 are provided below: <br><br>
 
 Archive 2 - https://www.dropbox.com/s/vjyqep3b988watk/Archive2.zip?dl=0
 <br><br>
