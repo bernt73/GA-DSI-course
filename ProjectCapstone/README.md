@@ -1,4 +1,4 @@
-## Jupyter notebook containing the code to analyse the text corpus of a wine reviews dataset from Kaggle. In it, I also trained a Gated Recurrent Unit network to artificially generate human-readable wine reviews.
+## Wine Reviews Writer - ### Jupyter notebook containing the code to analyse the text corpus of a wine reviews dataset from Kaggle. In it, I also trained a Gated Recurrent Unit network to artificially generate human-readable wine reviews.
 
 #### HTML formatting is heavily used in the ipython notebook for the purpose of readability and aesthetics. Github cannot render some of the html tags used in it. Hence it will just display the raw code. Do try to download the notebook to your local computer to open in Jupyter Notebook. Hope it gives you a more enjoyable reading experience!
 
